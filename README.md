@@ -1,3 +1,4 @@
+
 # Markov Chain Text Generation
 
 ## Project Overview
@@ -159,7 +160,3 @@ This project was completed as part of the **ProGen AI Internship**.
 - **Mentor**: [ProGen AI]
 - **Text Data**: [Project Gutenberg] via NLTK
 - **Library**: [NLTK](https://www.nltk.org/)
-
-
-
-
